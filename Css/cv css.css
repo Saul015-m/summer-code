@@ -1,0 +1,71 @@
+.fame1 {
+    margin-top: 50px;
+}
+
+.fame1 img {
+    border-radius: 100px;
+    height: 200px;
+    width: 200px;
+    margin-left: 320px;
+}
+
+
+.fame1 h1 {
+    margin-left: 650px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    margin-top: -120px;
+}
+
+.fame1 p {
+    margin-left: 650px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 19px;
+    color: gray;
+}
+
+.fame1 hr {
+    size: 1px;
+    width: 1200px;
+    color: black;
+}
+
+.fame3{
+    margin-left: 170px;
+    margin-right: 170px;
+}
+
+.fa01 {
+    float: left;
+}
+
+
+.fa01 img {
+    width: 25px;
+    height: 25px;
+    margin-top: 5px;
+
+}
+
+.fa03 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+   line-height: 30PX;
+}
+
+
+.fa02 { 
+    float: right; 
+ }
+ 
+ .fa01 table {
+    margin-left: -30px;
+ }
+
+ .fa01 p {
+    color:  rgb(230, 61, 89);
+ }
+
+ .fa02 p {
+   color: rgb(230, 61, 89);
+ }

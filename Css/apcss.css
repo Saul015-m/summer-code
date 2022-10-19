@@ -1,0 +1,439 @@
+
+
+
+.tsoo1 {
+    width: 100%;
+    padding: 78px 0px;
+    background: white;
+
+}
+
+.tsoo2 {
+    width: 550px;
+    margin-right: -150px;
+}
+
+.main {
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.tsoo2 h1 {
+    font-size: 40px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+    margin-top: -30px;
+
+}
+
+.tsoo2 p {
+    letter-spacing: 1px;
+    line-height: 28px;
+    font-size: 18px;
+    margin-bottom: 45px;
+}
+
+.tsoo1 img {
+    height: 400px;
+    width:400px;
+margin-left: -100px;
+}
+
+.tso {
+    background: #f9004d;
+    color: white;
+    text-decoration: none ;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: 13px 30px;
+    border-radius: 30px;
+    align-items: center;
+}
+
+.tso1 { 
+    background: white;
+    color: #f9004d;
+    text-decoration: none ;
+    border: 2px solid #f9004d;
+    font-weight: bold;
+    padding: 13px 30px;
+    border-radius: 30px;
+    align-items: center;
+}
+
+.tsi {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+
+
+.ts {
+    color: rgb(230, 61, 89)
+}
+
+
+
+.mamy1 {
+    width: 100%;
+    padding: 78px 0px;
+    background: white;
+
+}
+
+.mamy{
+    width: 550px;
+    margin-left: -2400px;
+}
+
+.main {
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.mamy h1 {
+    font-size: 40px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+    margin-top: -30px;
+
+}
+
+.mamy p {
+    letter-spacing: 1px;
+    line-height: 28px;
+    font-size: 18px;
+    margin-bottom: 45px;
+}
+
+.mamy1 img {
+    height: 400px;
+    width:400px;
+margin-left: 150px;
+  }
+
+.maa {
+    background: aqua;
+    color: white;
+    text-decoration: none ;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: 13px 30px;
+    border-radius: 30px;
+    align-items: center;
+}
+
+.maa1 { 
+    background: white;
+    color: aqua;
+    text-decoration: none ;
+    border: 2px solid aqua;
+    font-weight: bold;
+    padding: 13px 30px;
+    border-radius: 30px;
+    align-items: center;
+  }
+
+.mam {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+.ma {
+    color: aqua;
+}
+
+
+
+
+
+.mino1 {
+    width: 100%;
+    padding: 78px 0px;
+    background: white;
+
+}
+
+.mino {
+    width: 550px;
+    margin-right: -150px;
+}
+
+.main {
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.mino h1 {
+    font-size: 40px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+    margin-top: -30px;
+
+}
+
+.mino p {
+    letter-spacing: 1px;
+    line-height: 28px;
+    font-size: 18px;
+    margin-bottom: 45px;
+}
+
+.mino1 img {
+    height: 400px;
+    width:400px;
+margin-left: -100px;
+}
+
+.mim {
+    background: #f9004d;
+    color: white;
+    text-decoration: none ;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: 13px 30px;
+    border-radius: 30px;
+    align-items: center;
+}
+
+.mim1 { 
+    background: white;
+    color: #f9004d;
+    text-decoration: none ;
+    border: 2px solid #f9004d;
+    font-weight: bold;
+    padding: 13px 30px;
+    border-radius: 30px;
+    align-items: center;
+}
+
+.min {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+
+
+.mi {
+    color: rgb(230, 61, 89)
+}
+
+
+
+
+
+.sarobidy1 {
+    width: 100%;
+    padding: 78px 0px;
+    background: white;
+
+}
+
+.sarobidy{
+    width: 550px;
+    margin-left: -2400px;
+}
+
+.main {
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.sarobidy h1 {
+    font-size: 40px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+    margin-top: -30px;
+
+}
+
+.sarobidy p {
+    letter-spacing: 1px;
+    line-height: 28px;
+    font-size: 18px;
+    margin-bottom: 45px;
+}
+
+.sarobidy1 img {
+    height: 400px;
+    width:400px;
+margin-left: 150px;
+}
+
+.sar {
+    background: aqua;
+    color: white;
+    text-decoration: none ;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: 13px 30px;
+    border-radius: 30px;
+    align-items: center;
+}
+
+.sar1 { 
+    background: white;
+    color: aqua;
+    text-decoration: none ;
+    border: 2px solid aqua;
+    font-weight: bold;
+    padding: 13px 30px;
+    border-radius: 30px;
+    align-items: center;
+  }
+
+.saro{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+
+.bidy {
+    color: aqua;
+}
+
+
+
+
+
+.safidy1 {
+    width: 100%;
+    padding: 78px 0px;
+    background: white;
+
+}
+
+.safidy {
+    width: 550px;
+    margin-right: -150px;
+}
+
+.main {
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.safidy h1 {
+    font-size: 40px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+    margin-top: -30px;
+
+}
+
+.safidy p {
+    letter-spacing: 1px;
+    line-height: 28px;
+    font-size: 18px;
+    margin-bottom: 45px;
+}
+
+.safidy1 img {
+    height: 400px;
+    width:400px;
+margin-left: -100px;
+}
+
+.saa {
+    background: #f9004d;
+    color: white;
+    text-decoration: none ;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: 13px 30px;
+    border-radius: 30px;
+    align-items: center;
+}
+
+.saa1 { 
+    background: white;
+    color: #f9004d;
+    text-decoration: none ;
+    border: 2px solid #f9004d;
+    font-weight: bold;
+    padding: 13px 30px;
+    border-radius: 30px;
+    align-items: center;
+}
+
+.saf {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+
+.idy {
+    color: rgb(230, 61, 89)
+}
+
+
+
+
+@media (max-width: 750px) {
+    .tsoo1 {
+        width: 100px;
+    }   
+    .mamy1 {
+        width: 100px;
+    }
+    .mino1 {
+        width: 100px;
+    }
+    .sarobidy1 {
+        width: 100px;
+    }
+    .safidy1 {
+        width: 100px;
+    }
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+    
